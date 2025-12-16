@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Ignacio Arroyo Garza and I'm currently studying Computer Science and Network Engineering at the ENSEEIHT Toulouse.</h2>
+<h2 align="left">Hi 👋! My name is Ignacio Arroyo Garza and I'm currently studying Cybersecuriry, Computer Science and Network Engineering at the ENSEEIHT Toulouse.</h2>
 
 ###
 
